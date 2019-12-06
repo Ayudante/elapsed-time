@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://ayudante.jp/"
-# documentation: "https://github.com/Ayudante/elapsed-time/blob/master/README.md"
+documentation: "https://ayudante.jp/column/2019-12-06/18-15/"
 versions:
   # Latest version
   - sha: f9173ceeaf55793539274ba44a8c6d793c2acf94
